@@ -1,5 +1,5 @@
 {
-  "name": "kerox/messenger",
+  "name": "nferbey/messenger",
   "type": "library",
   "description": "PHP Library to interact with Facebook Messenger Platform",
   "keywords": [
@@ -9,7 +9,7 @@
     "bot messenger",
     "api"
   ],
-  "homepage": "https://github.com/ker0x/messenger",
+  "homepage": "https://github.com/nferbey/messenger",
   "license": "MIT",
   "authors": [
     {
